@@ -13,7 +13,7 @@ const FloatingBar = ({ isVisible }: { isVisible: boolean }) => {
   const { emojis } = data;
 
   // TODO: count 기능 사용 원할시 firebase realtime db 연결!
-  const [count, setCount] = useState(0);
+  const [, setCount] = useState(0);
 
   useEffect(() => {
     // TODO: realtime db 에 likes 객체 추가.
