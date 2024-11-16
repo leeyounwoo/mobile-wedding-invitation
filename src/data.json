@@ -42,21 +42,19 @@
           "name": "이윤우",
           "relation": "신랑",
           "bank": "토스뱅크",
-          "account": "1000-4417-6335",
-          "kakaopayAccount": "",
-          "tossAccount": ""
+          "account": "1000-4417-6335"
         },
         {
           "name": "이경구",
           "relation": "아버지",
-          "bank": "??",
-          "account": "??"
+          "bank": "국민은행",
+          "account": "461-12-10329-824"
         },
         {
           "name": "박화숙",
           "relation": "어머니",
-          "bank": "??",
-          "account": "??"
+          "bank": "국민은행",
+          "account": "47810-10-4423214"
         }
       ]
     },
@@ -66,22 +64,20 @@
         {
           "name": "이지현",
           "relation": "신부",
-          "bank": "",
-          "account": "",
-          "kakaopayAccount": "",
-          "tossAccount": ""
+          "bank": "농협은행",
+          "account": "352-0535-0146-33"
         },
         {
           "name": "이덕재",
           "relation": "아버지",
-          "bank": "??",
-          "account": "??"
+          "bank": "농협은행",
+          "account": "453049-56-083183"
         },
         {
           "name": "유근옥",
           "relation": "어머니",
-          "bank": "??",
-          "account": "??"
+          "bank": "농협은행",
+          "account": "409-02-244241"
         }
       ]
     }
@@ -91,8 +87,8 @@
     "address2": "대전 서구 한밭대로 809 2-3층\n대전광역시 서구 둔산동 929\n042-478-6600",
     "naverMap": "https://map.naver.com/p/directions/-/14180861.5807822,4350014.7451407,%EB%B9%8C%EB%9D%BC%EB%93%9C%EC%95%8C%ED%8B%B0%EC%98%A4%EB%9D%BC,11549546,PLACE_POI/-/transit?c=18.00,0,0,0,dh",
     "kakaoMap": "https://map.kakao.com/link/to/1595873260",
-    "lat": 37.54222,
-    "lon": 126.952708
+    "lat": "36.358175",
+    "lon": "127.388860"
   },
   "locationInfo": [
     {
@@ -101,7 +97,7 @@
     },
     {
       "title": "\uD83D\uDCCD 주차안내",
-      "desc": "\uD83D\uDC49\uD83C\uDFFB ??"
+      "desc": "\uD83D\uDC49\uD83C\uDFFB 건물 내 지하주차장 (3시간 무료)"
     }
   ],
   "emojis": [
