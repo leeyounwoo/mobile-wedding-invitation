@@ -87,8 +87,8 @@
     "address2": "대전 서구 한밭대로 809 2-3층\n대전광역시 서구 둔산동 929\n042-478-6600",
     "naverMap": "https://map.naver.com/p/directions/-/14180861.5807822,4350014.7451407,%EB%B9%8C%EB%9D%BC%EB%93%9C%EC%95%8C%ED%8B%B0%EC%98%A4%EB%9D%BC,11549546,PLACE_POI/-/transit?c=18.00,0,0,0,dh",
     "kakaoMap": "https://map.kakao.com/link/to/1595873260",
-    "lat": "36.358175",
-    "lon": "127.388860"
+    "lat": 36.358175,
+    "lon": 127.38886
   },
   "locationInfo": [
     {
