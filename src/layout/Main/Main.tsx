@@ -1,13 +1,12 @@
 import styled from '@emotion/styled';
 import data from 'data.json';
-// import mainImg from '@/assets/images/main.jpg';
-import candidateImg from '@/assets/images/100.jpg';
+import mainImg from '@/assets/images/main.jpg';
 
 const Main = () => {
   const { greeting } = data;
   return (
     <div>
-      <MainImg src={candidateImg} />
+      <MainImg src={mainImg} />
       <MainTitle>{greeting.title}</MainTitle>
       <SubTitle>{greeting.eventDetail}</SubTitle>
     </div>
